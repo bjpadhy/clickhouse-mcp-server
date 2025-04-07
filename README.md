@@ -10,6 +10,11 @@ A Model Context Protocol (MCP) server that connects to ClickHouse databases and 
 - Execute read-only SQL queries
 - Works with Claude Desktop for macOS
 
+## Demo
+https://github.com/user-attachments/assets/b496b9b0-5955-49d5-8c26-733f34662d8f
+
+
+
 ## Installation
 
 1. Clone this repository
